@@ -125,3 +125,4 @@ TW_NO_LEGACY_PROPS := true
 TW_NO_BIND_SYSTEM := true
 TW_NO_SCREEN_BLANK := true
 TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
+TARGET_RECOVERY_FSTAB := device/samsung/a32x/recovery.fstab
