@@ -1,0 +1,4 @@
+/system      ext4    system                                     flags=display="System";backup=1;logical
+/vendor      ext4    vendor                                     flags=display="Vendor";backup=1;logical
+/product    ext4    product                                    flags=display="Product";backup=1;logical
+/odm         ext4    odm                                        flags=display="ODM";backup=1;logical
