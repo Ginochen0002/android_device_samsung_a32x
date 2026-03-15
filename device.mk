@@ -10,7 +10,7 @@ PRODUCT_USE_DYNAMIC_PARTITIONS := true
 INFINITY_BUILD_TYPE := UNOFFICIAL
 WITH_GAPPS := true
 # Define the path to your extracted blobs folder
-LOCAL_BLOB_PATH := device/samsung/a32x/recovery/root/vendor
+LOCAL_BLOB_PATH := recovery/root/vendor
 
 # Copy Binaries
 PRODUCT_COPY_FILES += \
