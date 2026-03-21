@@ -126,6 +126,10 @@ TW_NO_BIND_SYSTEM := true
 TW_NO_SCREEN_BLANK := true
 TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
 TARGET_RECOVERY_FSTAB := device/samsung/a32x/recovery.fstab
+TW_EXCLUDE_PYTHON := true
+TW_EXCLUDE_LPDUMP := true
+
+
 # Crypto & Security
 TW_INCLUDE_CRYPTO := true
 TW_INCLUDE_CRYPTO_FBE := true
